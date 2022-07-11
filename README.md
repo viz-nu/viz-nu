@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viz</h1>
 <h3 align="center">A web developer currently residing India. I also hold an batchelor degree in Electrical and Electronics Engineering from Hyderabad.</h3>
+<img align="right" alt="Coding" width="400" src="(https://www.vectorstock.com/royalty-free-vector/programmer-icon-isolated-contour-symbol-vector-29430571)" />
 
 - 👨‍💻 All of my projects are available at [viznu.dev](viznu.dev)
 
