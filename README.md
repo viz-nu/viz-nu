@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viz</h1>
 <h3 align="center">An enthusastic web developer from in India. Open to all kinds of discussions.</h3>
 
-- 👨‍💻 All of my projects are available at [viznu.dev](viznu.dev)
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **vishnu.teja101.vt@gmail.com or viznu@viznu.dev**
-
-- ⚡ Fun fact **I love to think in numbers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
