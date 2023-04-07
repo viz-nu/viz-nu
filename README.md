@@ -2,7 +2,7 @@
 <h3 align="center">An enthusastic web developer from in India. Open to all kinds of discussions.</h3>
 
 
-- 👨‍💻 All of my projects are available at [viznu.dev](viznu.dev)
+- 👨‍💻 All of my projects are available at ([viznu.dev](https://viznu.dev/))
 
 - 💬 Ask me about **MERN**
 
